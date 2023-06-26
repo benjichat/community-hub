@@ -97,6 +97,16 @@ On the platform, there are also [Public APIs](https://blastapi.io/public-api/opt
 - OP Mainnet
 - OP Goerli
 
+## Dwellir
+
+### Description and Pricing
+
+[Dwellir](https://www.dwellir.com/) offers low-latency archival nodes for OP Mainnet and plenty of other related networks with a free tier and transparent pricing for all needs.
+
+### Supported Networks
+
+- OP Mainnet
+
 ## GetBlock
 
 [GetBlock developer](https://getblock.io/en/nodes/optimism/) tools and valuable insights guarantee a simple and reliable API access to multiple blockchains.
